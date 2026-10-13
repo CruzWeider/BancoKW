@@ -1,0 +1,8 @@
+{
+  "name": "Banco Imobiliário Digital",
+  "description": "Sistema moderno de gestão para Banco Imobiliário com banco central digital, carteiras mobile conectadas por QR Code, automação de aluguéis, casas e hotéis, cadastro de propriedades físicas e ranking histórico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

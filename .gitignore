@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+server.js
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+cloudflared.exe
+.aistudio
